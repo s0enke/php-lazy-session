@@ -1,0 +1,9 @@
+== ToDo ==
+
+ * make a class of it
+ * singleton
+ * write tests
+ * deletion-cookie must get all params of session cookie (domain, httpOnly etc)
+ * documentation
+ * clear api
+
